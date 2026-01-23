@@ -1,48 +1,64 @@
-# 👋 Hi, I'm Jonghyun (inoaole)
+# 👋 Hi, I'm Jonghyun
 
 🎓 Computer Science @ Yonsei University  
-💻 Backend-focused Developer | AI Model Serving | REST API Design
+💻 Backend Developer  
+🤖 Interested in AI-powered service systems
 
 ---
 
 ## 🔧 Tech Stack
 
-**Backend:** Python, Django, REST API design  
-**Infra / Tools:** Git, Docker (basic usage)  
-**Database:** Firebase (Auth, Firestore), SQLite, MySQL  
-**Client / Others:** Flutter (MVP app client), HTML/CSS/JS (basic)
+**Backend**
+- Python, Django
+- REST API design & implementation
+
+**Infra / Tools**
+- Git, GitHub
+- Docker (basic usage)
+
+**Database**
+- Firebase (Auth, Firestore)
+- Relational DB (basic experience)
+
+**Client / Others**
+- Flutter (MVP client)
+- HTML, CSS, JavaScript (basic)
 
 ---
 
-## 🧩 Key Experience
+## 🧩 Projects
 
 ### ⚽ TapKick – Football Match-making MVP
-- Backend service logic using Firebase and Cloud Functions
-- Concurrency & transaction handling for real-time match creation
-- State-based domain modeling (WAITING / MATCHED / CANCELED)
-- Focus on backend data consistency and scalability
-
-### 🔹 Django_GPT – AI Model Serving Web Backend
-- Django-based web backend serving multiple AI models
-- Login-based access control & request history persistence
-- Complex pipeline page linking 2+ AI models (challenge)
-- Demonstrates REST API implementation and AI integration
-
-### 🧪 AI & Model Serving
-- OCR, RAG system prototypes (service-oriented perspective)
-- Hugging Face model serving integrated with Django
-- Experience handling API response, error handling, and concurrency
+- Implemented backend service logic using Firebase and Cloud Functions
+- Handled concurrency and transactions for real-time match creation
+- Designed state-based domain models  
+  (`WAITING` / `MATCHED` / `CANCELED`)
+- Focused on backend data consistency and scalability
 
 ---
 
-## 🎯 Interests & Strengths
-- Backend system design & implementation
-- AI model integration from a **service perspective**
-- Building real-world products used by users
-- Learning new frameworks quickly (FastAPI, Flask, PyTorch)
+### 🏆 Pirogramming Hackathon – Team Project
+- Backend development as part of a university programming club hackathon
+- Built REST-style APIs using Django
+- Collaborated in a short-term, fast-paced team environment
+- Repository: https://github.com/Pirogramming-24/hackathon_P3
+
+---
+
+## 🧪 AI & Model Serving Experience
+- Built Django-based web services integrating multiple AI models
+- Explored OCR and RAG systems from a service perspective
+- Experience handling model API calls, responses, and error cases
+
+---
+
+## 🎯 Interests
+- Backend system design
+- AI model integration & serving
+- Real-world product development
+- Startup & early-stage product teams
 
 ---
 
 ## 📫 Contact
 - GitHub: https://github.com/inoaole
-
