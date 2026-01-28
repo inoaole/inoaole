@@ -35,22 +35,6 @@
   (`WAITING` / `MATCHED` / `CANCELED`)
 - Focused on backend data consistency and scalability
 
----
-
-### 🏆 Pirogramming Hackathon – Team Project
-- Backend development as part of a university programming club hackathon
-- Built REST-style APIs using Django
-- Collaborated in a short-term, fast-paced team environment
-- Repository: https://github.com/Pirogramming-24/hackathon_P3
-
----
-
-## 🧪 AI & Model Serving Experience
-- Built Django-based web services integrating multiple AI models
-- Explored OCR and RAG systems from a service perspective
-- Experience handling model API calls, responses, and error cases
-
----
 
 ## 🎯 Interests
 - Backend system design
