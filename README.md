@@ -1,46 +1,24 @@
 # 👋 Hi, I'm Jonghyun
 
 🎓 Computer Science @ Yonsei University  
-💻 Backend Developer  
-🤖 Interested in AI-powered service systems
+💻 Backend Intern  
 
 ---
 
 ## 🔧 Tech Stack
 
-**Backend**
-- Python, Django
-- REST API design & implementation
+### Backend & Infrastructure
+- **Languages & Frameworks**: Python, Django, FastAPI (Core)
+- **Deployment**: Docker, Docker Compose
+- **Tools**: Git, GitHub, Postman, Cursor AI
 
-**Infra / Tools**
-- Git, GitHub
-- Docker (basic usage)
+### Data & Cloud
+- **Database**: PostgreSQL, MySQL, Firebase (Firestore/Auth)
+- **Cloud**: Basic experience with AWS & GCP
 
-**Database**
-- Firebase (Auth, Firestore)
-- Relational DB (basic experience)
-
-**Client / Others**
-- Flutter (MVP client)
-- HTML, CSS, JavaScript (basic)
-
----
-
-## 🧩 Projects
-
-### ⚽ TapKick – Football Match-making MVP
-- Implemented backend service logic using Firebase and Cloud Functions
-- Handled concurrency and transactions for real-time match creation
-- Designed state-based domain models  
-  (`WAITING` / `MATCHED` / `CANCELED`)
-- Focused on backend data consistency and scalability
-
-
-## 🎯 Interests
-- Backend system design
-- AI model integration & serving
-- Real-world product development
-- Startup & early-stage product teams
+### Client & Others
+- **Mobile**: Flutter (MVP Development)
+- **Web**: HTML5, CSS3, JavaScript
 
 ---
 
