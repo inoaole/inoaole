@@ -10,7 +10,7 @@
 ### Backend & Infrastructure
 - **Languages & Frameworks**: Python, Django, FastAPI (Core)
 - **Deployment**: Docker, Docker Compose
-- **Tools**: Git, GitHub, Postman, Cursor AI
+- **Tools**: Git, GitHub
 
 ### Data & Cloud
 - **Database**: PostgreSQL, MySQL, Firebase (Firestore/Auth)
