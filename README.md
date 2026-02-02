@@ -37,3 +37,4 @@
 
 ## ✉️ Contact
 - **GitHub**: [github.com/inoaole](https://github.com/inoaole)
+- **LinkedIn**: www.linkedin.com/in/jonghyun-beik
