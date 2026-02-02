@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jonghyun Beik
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Backend%20Engineer%20Jonghyun&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=3776AB&height=150&section=header&text=Backend%20Engineer%20Jonghyun&fontSize=40" />
 </p>
 
 ## ℹ️ About me
@@ -41,7 +41,7 @@
 
 ## 📊 Github Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=inoaole&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inoaole&show_icons=true&theme=radical&hide_border=false" alt="Jonghyun's GitHub stats" />
 </p>
 
 ---
