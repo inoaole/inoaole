@@ -16,7 +16,6 @@
 ## 👨‍💻 Projects
 | Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **V-Body** | 3D Body Scanning & AI MSK Analysis Platform | FastAPI, Redis, Docker |
 | **EXAONE Comp.** | LLM Compression Hackathon (LG Aimers) | Python, vLLM, Hugging Face |
 | **Uniquest** | Campus Mission/Errand Brokerage Platform | Django, FastAPI, Redis, Docker |
 | **TapKick** | Football/Futsal Social Matching (Vietnam) | Django, PostgreSQL, Flutter |
