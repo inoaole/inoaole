@@ -2,14 +2,11 @@
 
 ## ℹ️ About me
 - 🎓 **Yonsei University** | Computer Science 
-- 💻 **Incoming Backend Engineer Intern** @ V-Body (Joining Feb 20th)
 - 🚀 **LG Aimers 8th** | AI Hackathon: LLM Compression (EXAONE-4.0-1.2B)
 
 ---
 
 ## ✨ Career & Activity
-- **2026.02 ~ Present** | **V-Body** (Yonsei CS Grad-based Startup) - Backend Engineer Intern
-  - *Focus: FastAPI, Redis Caching, AI Model Serving Optimization*
 - **2026.01 ~ Present** | **LG Aimers 8th** - AI Professional Course & Hackathon
   - *Project: Optimizing EXAONE-4.0-1.2B through LLM Compression (vLLM)*
 - **2025.12 ~ Present** | **Pirogramming 24th** - Web Development Program
