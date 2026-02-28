@@ -19,7 +19,7 @@
 | :--- | :--- | :--- |
 | **EXAONE Comp.** | LLM Compression Hackathon (LG Aimers) | Python, vLLM, Hugging Face |
 | **Uniquest** | Campus Mission/Errand Brokerage Platform | Django, FastAPI, Redis, Docker |
-| **TapKick** | Football/Futsal Social Matching (Vietnam) | Firebase, Flutter |
+| **TapKick** | Football/Futsal Social Matching | Firebase, Flutter |
 
 ---
 
