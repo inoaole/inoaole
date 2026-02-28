@@ -1,15 +1,16 @@
 # 👋 Hi, I'm Jonghyun Beik
 
 ## ℹ️ About me
-- 🎓 **Yonsei University** | Computer Science 
-- 🚀 **LG Aimers 8th** | AI Hackathon: LLM Compression (EXAONE-4.0-1.2B)
+- 🎓 **Yonsei University** | Computer Science
+- - 💻 **Backend Engineering Intern @ V-Body** | AI Healthcare
 
 ---
 
 ## ✨ Career & Activity
-- **2026.01 ~ Present** | **LG Aimers 8th** - AI Professional Course & Hackathon
+- **2026.02 ~ Present** | **V-Body** - Backend Engineering Intern
+- **2025.12 ~ 2026.02** | **Pirogramming 24th** - Web Development Program
+- **2026.01 ~ 2026.02** | **LG Aimers 8th** - AI Professional Course & Hackathon
   - *Project: Optimizing EXAONE-4.0-1.2B through LLM Compression (vLLM)*
-- **2025.12 ~ Present** | **Pirogramming 24th** - Web Development Program
 
 ---
 
@@ -18,7 +19,7 @@
 | :--- | :--- | :--- |
 | **EXAONE Comp.** | LLM Compression Hackathon (LG Aimers) | Python, vLLM, Hugging Face |
 | **Uniquest** | Campus Mission/Errand Brokerage Platform | Django, FastAPI, Redis, Docker |
-| **TapKick** | Football/Futsal Social Matching (Vietnam) | Django, PostgreSQL, Flutter |
+| **TapKick** | Football/Futsal Social Matching (Vietnam) | Firebase, Flutter |
 
 ---
 
