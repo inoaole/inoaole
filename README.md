@@ -8,7 +8,7 @@
 
 ## ✨ Career & Activity
 - **2026.02 ~ Present** | **V-Body** - Backend Engineering Intern
-- **2026.03 ~ Present** | **Pirogramming 25th** - Education Team
+- **2026.03 ~ Present** | **UXIM 15th** - Yonsei HCI/UI·UX Society
 - **2025.12 ~ 2026.02** | **Pirogramming 24th** - Web Development Program
 - **2026.01 ~ 2026.02** | **LG Aimers 8th** - AI Professional Course & Hackathon
   - *Project: Optimizing EXAONE-4.0-1.2B through LLM Compression (vLLM)*
