@@ -7,8 +7,8 @@
 ---
 
 ## ✨ Career & Activity
-- **2026.02 ~ Present** | **V-Body** - Backend Engineering Intern
-- **2026.03 ~ Present** | **UXIM 15th** - Yonsei HCI/UI·UX Society
+- **2026.02 ~ Present** | **V-Body** - Backend Engineering Intern (AI Healthcare)
+- **2026.03 ~ Present** | **UXIM 15th** - Yonsei HCI/UX Society
 - **2025.12 ~ 2026.02** | **Pirogramming 24th** - Web Development Program
 - **2026.01 ~ 2026.02** | **LG Aimers 8th** - AI Professional Course & Hackathon
   - *Project: Optimizing EXAONE-4.0-1.2B through LLM Compression (vLLM)*
@@ -18,13 +18,13 @@
 ## 👨‍💻 Projects
 | Name | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **TapKick** | Revenue-generating futsal social matching service (Vietnam) · 75+ matches run, AI highlight reels | Next.js, FastAPI, PostgreSQL, Serverless GPU |
 | **EXAONE Comp.** | LLM Compression Hackathon (LG Aimers) | Python, vLLM, Hugging Face |
 | **Uniquest** | Campus Mission/Errand Brokerage Platform | Django, FastAPI, Redis, Docker |
-| **TapKick** | AI-driven Futsal Social Matching (Vietnam) | Next.js, FastAPI, PostgreSQL, Serverless GPU |
 
 ---
 
-## 🛠️ Tech Stacks
+## 🛠️ Tech Stack
 
 ### 🔧 I can use
 - **Backend**: <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
@@ -36,3 +36,4 @@
 ## ✉️ Contact
 - **GitHub**: [github.com/inoaole](https://github.com/inoaole)
 - **LinkedIn**: [jonghyun-beik](https://www.linkedin.com/in/jonghyun-beik)
+- **Email**: jong0917@yonsei.ac.kr
