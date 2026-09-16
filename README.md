@@ -2,7 +2,7 @@
 
 ## ℹ️ About me
 - 🎓 **Yonsei University** | Computer Science
-- 💻 ** Software Engineer @ VBODY** | AI Healthcare
+- 💻 **Software Engineer @ VBODY** | AI Healthcare
 
 ---
 
