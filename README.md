@@ -1,5 +1,3 @@
-# Hi, I'm Jonghyun Beik
-
 ## ℹ️ About me
 - 🎓 **Yonsei University** | Computer Science
 - 💻 **Software Engineer @VBODY** | AI Healthcare
